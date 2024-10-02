@@ -31,7 +31,7 @@ export const Header = () => {
             </div>
             <div className="row poly ">
                 <div className="col-lg-6 col-12 text-center position-relative">
-                    <img src="profileOne.svg" alt="back" className='img-fluid w-100' />
+                    <img src="my.png" alt="back" className='img-fluid w-50' />
 
                 </div>
                 <div className="col-lg-6 col-12">
