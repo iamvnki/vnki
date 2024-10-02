@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route,} from "react-router-dom"
 import { About } from "./assets/componet/About"
 import { Project } from "./assets/componet/Project"
 import { Contact } from "./assets/componet/Contact"
-import { Footer } from "./assets/footer"
+import { Footer } from "./assets/Footer"
 function App() {
 
 
